@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tulioneves.me/</loc>
+    <lastmod>2025-03-10T00:32:10-03:00</lastmod>
+  </url><url>
+    <loc>https://tulioneves.me/posts/</loc>
+    <lastmod>2025-03-10T00:32:10-03:00</lastmod>
+  </url><url>
+    <loc>https://tulioneves.me/categories/</loc>
+  </url><url>
+    <loc>https://tulioneves.me/tags/</loc>
+  </url>
+</urlset>
